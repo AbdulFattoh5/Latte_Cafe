@@ -1,0 +1,32 @@
+.winning {
+    background: #4A2B33;
+    padding: 121px 0 133px;
+}
+
+.winning_wrap {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.winning_h {
+    font-family: 'Azeret Mono', sans-serif;
+    font-size: 47px;
+    font-weight: 400;
+    line-height: 63px;
+    letter-spacing: 1px;
+    text-align: left;
+    color: #D27487;
+    max-width: 413px;
+}
+
+.winning_p {
+    font-family: 'Inter', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27px;
+    text-align: left;
+    color: #D27487;
+    max-width: 595px;
+    margin-right: 38px;
+}
