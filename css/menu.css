@@ -1,0 +1,51 @@
+.menu {
+    background: #E9E9E3;
+    padding: 120px 0;
+}
+
+.menu_wrap {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+
+.menu_h {
+    font-family: 'Azeret Mono', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 22px;
+    text-align: left;
+    color: #6F6F64;
+    margin-bottom: 17px;
+}
+
+.menu_p {
+    font-family: 'Inter', sans-serif;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 45px;
+    text-align: left;
+    color: #6F6F64;
+    margin-bottom: 74px;
+    max-width: 558px;
+}
+
+.buttons {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.menu_btn1 {
+    padding: 17px 224px;
+}
+
+.menu_btn2 {
+    padding: 17px 219px;
+}
+
+.menu_btn3 {
+    padding: 17px 206px;
+}
