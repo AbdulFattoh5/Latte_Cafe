@@ -6,3 +6,10 @@
     list-style: none;
 }
 
+.container{
+    max-width: 1345px;
+    margin: 0 auto;
+    padding: 0 15px;
+    height: 100%;
+    width: 100%;
+}

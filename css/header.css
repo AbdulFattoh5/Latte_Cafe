@@ -1,0 +1,48 @@
+.header {
+    background: #4A2B33;
+    padding: 44px 0;
+}
+
+.wrap {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.menu {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+
+.link {
+    font-family: 'Inter', sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #D27487;
+    transition: 0.3s;
+    border-bottom: 2px solid transparent;
+}
+
+.link:hover{
+    border-bottom: 2px solid black;
+}
+
+.logo{
+    margin: 0 422px 0 296px;
+}
+
+.social_media{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+
+.icon{
+    color: #C67A88;
+    font-size: 23px;
+}
+
