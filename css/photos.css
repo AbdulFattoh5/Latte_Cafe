@@ -1,0 +1,17 @@
+.photos{
+    padding: 152px 0 120px;
+}
+
+.photos_wrap{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.photos_left{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 40px;
+}
