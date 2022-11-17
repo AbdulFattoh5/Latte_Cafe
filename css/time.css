@@ -6,7 +6,8 @@
 .time_wrap {
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
 }
 
 .location_h {
@@ -26,6 +27,10 @@
     line-height: 36px;
     color: white;
     text-align: center;
+}
+
+.hours_phone{
+    display: none;
 }
 
 .hours{

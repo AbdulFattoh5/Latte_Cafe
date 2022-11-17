@@ -6,7 +6,7 @@
 .wrap {
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: space-between;
 }
 
 .menu {
@@ -31,7 +31,11 @@
 }
 
 .logo{
-    margin: 0 422px 0 296px;
+    margin-right: 100px;
+}
+
+.logoPhone{
+    display: none;
 }
 
 .social_media{
